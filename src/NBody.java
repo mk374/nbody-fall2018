@@ -55,7 +55,7 @@ public class NBody {
 			return arrB;
 	}
 	public static void main(String[] args) throws FileNotFoundException{
-		double totalTime = 157788000.0;
+		double totalTime = 2000000;
 		double dt = 25000.0;
 		
 		String fname= "./data/planets.txt";
